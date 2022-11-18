@@ -1,8 +1,8 @@
-Maria Theresia Konrad
+My name is Maria Theresia Konrad. 
 
-My interests:
-- Environmental Economics
-- Optimization, General Equilibrium and Econometric Models
+- Working with environmental economics
+- Interested in optimization, general equilibrium and econometric models
+- Programming skills in R and GAMS
 
 <!---
 MariaKonrad/MariaKonrad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
